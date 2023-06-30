@@ -187,6 +187,7 @@ public class ArrayList{
         for (int i = 0; i < array.length; i++) {
             array[i] = integerArray[i];
         }
+
         return array;
     }
 }
